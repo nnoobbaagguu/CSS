@@ -47,3 +47,24 @@ a {
   color:red;
 }
 ```
+```
+color
+font-size
+text-align
+text-decoration
+```
+class HTML 속성을 지정해서 변경<br>
+```
+<a href="1.html" class="saw active"></a>
+```
+선택자는 class명 앞에 .를 붙여서 지정<br>
+id 애트리뷰트
+id 선택자는 #로시작.
+id 선택자 > class 선택자 > 태그 선택자, 마지막에 기술한 것 먼저 적용
+id는 단 한번 등장
+[css 선택자](https://www.w3schools.com/cssref/css_selectors.asp)
+
+화면 전체를 사용하는 태그 = block level element/ 자신의 크기만 갖는 것 inline element
+주석 \/\* \*\/
+displaying:inline
+displaying:block
