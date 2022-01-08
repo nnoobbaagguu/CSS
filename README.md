@@ -68,3 +68,10 @@ id는 단 한번 등장
 주석 \/\* \*\/
 displaying:inline
 displaying:block
+선택자에 컴마, 사용 가능
+border
+padding
+margin
+width
+display
+이 다섯개 CSS 박스모델
